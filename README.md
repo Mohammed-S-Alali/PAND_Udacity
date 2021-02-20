@@ -17,8 +17,6 @@
 - Create an Analytical Dataset
 - Predict Loan Default Risk
 - A/B Test a Menu Launch
-- Time Series Forecasting
-- Forecast Video Game Demand
 - Combine Predictive Techniques (Capstone Project)
 ---
 
